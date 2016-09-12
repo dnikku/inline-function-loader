@@ -1,0 +1,22 @@
+{
+  "name": "inline-function-loader",
+  "version": "0.0.1",
+  "description": "Provides inline defining a custom loader/code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "inline",
+    "code",
+    "function"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnikku/inline-function-loader"
+  },
+  "author": "Nicu Dascalu",
+  "license": "MIT"
+}
