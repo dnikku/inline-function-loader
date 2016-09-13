@@ -1,6 +1,6 @@
 {
   "name": "inline-function-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides inline defining a custom loader/code.",
   "main": "index.js",
   "scripts": {
